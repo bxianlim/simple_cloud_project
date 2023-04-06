@@ -1,4 +1,5 @@
-# simple_cloud_project 
+
+# simple_cloud_project
 
 ## Git Clone
 `git clone` is used for just downloading exactly what is currently working on the remote server repository and saving it in your machine's folder where that project is placed. (Only one time)
@@ -15,8 +16,10 @@
 ## Git Branch
 `git branch` is used to see list of available branch on local repository
 
+
 ## Git Remote
 
 To change the remote to SSH
 
 `git remote` set-url origin git@github.com:bxianlim/simple_cloud_project.git
+
