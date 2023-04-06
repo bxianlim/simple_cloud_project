@@ -19,4 +19,4 @@
 
 To change the remote to SSH
 
-`git remote` set-url origin git@github.com:OWNER/REPOSITORY.git`
+`git remote` set-url origin git@github.com:bxianlim/simple_cloud_project.git
